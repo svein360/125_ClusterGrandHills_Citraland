@@ -1,0 +1,15 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 360 Cluster Grand Hills
+
+## Media
+
+### Title
+map_AA02551D_BBAB_57CF_41D7_91F32BC74BBA.label = Denah_L6_Atas
+panorama_AB8188E3_BBA6_DE74_41D3_8A5DA8379D0C.label = ClusterGrandHills_L9_Frontal
+panorama_B55A6D9D_BBA5_36CC_41E2_6E7F83EFE51D.label = ClusterGrandHills_L9_Hook
