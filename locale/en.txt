@@ -11,5 +11,5 @@ tour.name = 360 Cluster Grand Hills
 
 ### Title
 map_E947B525_F917_1841_4191_0AF414C9FC1A.label = CLUSTER PLAN
-panorama_F4EBFD3C_FA69_E7B3_41EC_362BA4101778.label = GrandHills Tipe L9 Hook View
-panorama_F68FEDBD_FA68_E6B2_41E4_5D80D335CD19.label = GrandHills Tipe L9 Front View
+panorama_F513F9A0_FEDC_C296_41E5_79FCDF9E5AB9.label = GrandHills Tipe L9 Front View
+panorama_F5A40BA8_FEDF_4695_41D7_BCE3FB780225.label = GrandHills Tipe L9 Hook View
